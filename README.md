@@ -1,10 +1,22 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a Full Stack Developer with 4+ years of experience working on large scale web apps and web solutions by using various PHP Frameworks like Laravel and Symfony. <br>
-I can build complete Project (Frontend UI/UX + DB Design + Backend). <br><br>
-I always stick to my client's vision. When I work on any new project or idea. I always make discussion with my client to understand views and clear all the requirements. <br><br>
-I am a person with positive attitude and always assist my clients to enhance their business to leverage the power of web preference and web solutions. I am fully capable of handle the project independently and also can work as team member. <br>
+👋 Greetings!
+
+I am an accomplished Laravel developer with a dynamic skill set spanning across various versions of Laravel, from 5 to the cutting-edge 10. Proficient in MySQL, MongoDB, and Redis, I specialize in crafting robust architectures and implementing intricate design patterns.
+
+My forte lies in architecting diverse systems, from traditional monolithic structures to intricate micro-services and multi-module/component-based architectures. Proficient in a suite of design patterns including Factory, Provider, Repository, Facade, and Observer, I wield these tools to craft scalable and maintainable solutions.
+
+My journey has been enriched by integrating a myriad of services, ranging from Stripe for seamless payment gateways to orchestrating recruitment strategies with Vonq's data-driven solutions. I've seamlessly integrated scheduling platforms like Google Meet and Zoom, and seamlessly connected enterprise-level systems such as SAP and SES for email management and domain verification.
+
+Notable contributions include pioneering a granular permission-based module that empowers users with tailored feature access. I've engineered a sophisticated automation system adept at managing job pipelines based on dynamic rules, elevating operational efficiency.
+
+Innovative problem-solving led to overcoming Laravel's single-level data casting limitations. I devised a custom solution for multi-level data casting, augmenting Laravel's capabilities.
+Noteworthy implementations also include a global grid view system for efficient frontend listing management based on unique features. Additionally, I implemented user-specific email overrides, dynamically altering the environment based on individual credentials.
+
+My commitment to excellence is reflected in embracing cutting-edge patterns like CQRS to separate read and write operations within Laravel APIs. Following SOLID principles, I advocate for streamlined architectural practices, adhering to the "1 controller, 1 service, 1 repository, 1 model" paradigm.
+
+Let's connect and explore how my expertise can drive your projects to unparalleled success!
 
 
 ## 🌐 Socials:
